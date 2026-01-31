@@ -1,0 +1,4 @@
+Repository Name: ITPM_Assignment_01_swift_translator_automation
+Student Registration Number: IT23175952
+Course: IT3040 - ITPM
+Assignment: Assignment 1 - Semester 2
